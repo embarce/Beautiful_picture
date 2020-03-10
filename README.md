@@ -1,1 +1,2 @@
 # Beautiful_picture
+这是为了实现我的第一个小项目做的文件
